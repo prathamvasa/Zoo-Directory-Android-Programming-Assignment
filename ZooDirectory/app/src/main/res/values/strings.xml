@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Manchester UTD Directory</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="titles">
+        <item>WAYNE ROONEY</item>
+        <item>ANTHONY MARTIAL</item>
+        <item>CHRIS SMALLING</item>
+        <item>LUKE SHAW</item>
+        <item>DE GEA</item>
+    </string-array>
+
+    <string name="wr_des">Wayne Mark Rooney born 24 October 1981 is an English professional footballer who plays for and captains both Manchester United and the England national team.\n
+        He has played much of his career as a forward, but he has also been used in various midfield roles.\n
+        Aged nine, Rooney joined the youth team of Everton, for whom he made his professional debut in 2002 at the age of 16.\n
+        He spent two seasons at the Merseyside club, before moving to Manchester United for £25.6 million in the 2004 summer transfer window. Since then, with Rooney in the team, United have won the Premier League five times, the UEFA Champions League once, the FIFA Club World Cup once, the FA Community Shield three times and the Football League Cup twice.\n
+        In September 2013, Rooney scored his 200th goal for Manchester United.He is currently on 242 goals, making him the club\'s second top goalscorer of all time.\n
+        His 191 Premier League goals make him the competition\'s second top scorer of all time, and he holds the record for most goals for one club in the Premier League, with 176 for Manchester United.</string>
+
+    <string name="am_des">Anthony Joran Martial born 5 December 1995 is a French professional footballer who plays as a forward for Premier League club Manchester United and the France national team.\n
+        He was the recipient of the 2015 Golden Boy Award for the best under-21 player in Europe.\n
+        Playing youth football for CO Les Ulis, he began his professional career at Lyon, then transferred to AS Monaco in 2013 for a fee of €6 million.\n
+        He was a member of Monaco\'s squad for two seasons, and signed for Manchester United in 2015 for an initial fee of £36 million which could potentially rise to £57.6 million.\n
+        This is the highest fee paid for a teenager in football history even before the potential increase. He scored in his first match for United, and was named the Premier League Player of the Month in his first month in English football.\n
+        An international for France from under-16 to under-21 level, Martial made his senior debut in 2015.</string>
+
+    <string name="cs_des">Christopher Lloyd \"Chris\" Smalling (born 22 November 1989) is an English professional footballer who plays as a centre-back for Manchester United and the England national team.\n
+        During his youth, Smalling played for the Millwall academy before joining local non-league side Maidstone United. He was selected for the Kent Schools Under-17 squad in 2005 before progressing to the Under-18s in 2007, and his performances for Kent Schools resulted in him being selected to play for the England Schools Under-18 squad in 2008.\n
+        During this time Smalling had also established himself in the Maidstone United first team, and his impressive displays for club and country led to him signing a two-year deal with Middlesbrough in May 2008.\n
+        Barely a month after signing for Middlesbrough however, Smalling had his contract with the club terminated after raising concerns with home sickness.\n
+        Shortly after, in June 2008, he signed for Premier League side Fulham. He made his professional debut with them in May 2009 in the final game of the 2008–09 season and helped them reach the 2010 Europa League final the following season.</string>
+
+    <string name="ls_des">Luke Paul Hoare Shaw (born 12 July 1995) is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team.\n
+        Originally a member of Southampton\'s youth system, Shaw made his first-team debut for the club in January 2012, and signed his first professional contract in May that year before becoming a regular in the Southampton team over the next two seasons.\n
+        In 2014, Shaw was signed by Manchester United for £30 million, then a world record transfer fee for a teenager, which was previously held by Wayne Rooney, when he transferred to Manchester United 10 years earlier.\n
+        On 5 March 2014, he made his senior international debut for the England team in a 1–0 friendly win against Denmark, and later that year was selected in the squad for the FIFA World Cup.</string>
+
+    <string name="dg_des">David de Gea Quintana born 7 November 1990 is a Spanish professional footballer who plays as a goalkeeper for English club Manchester United and the Spain national team.\n
+        Born in Madrid, De Gea began his career aged 13 with Atlético Madrid and rose through the academy system at the club before making his senior debut in 2009.\n
+        After being made Atlético\'s first-choice goalkeeper, he helped the team win both the UEFA Europa League and the UEFA Super Cup in 2010.\n
+        His performances attracted the attention of Manchester United, whom he joined in June 2011 for £17.8 million, a British record for a goalkeeper.\n
+        Since joining United, De Gea has made over 150 appearances and won one Premier League winner\'s medal, in 2013.\n
+        He has been hailed as one of the best goalkeepers in the world.During the 2013–14 and 2014–15 seasons, he was hailed as United\'s Player of the Season.</string>
+
+    <string name="title_activity_animal_description">Manchester UTD Directory</string>
+
+    <string name="ab_title">WARNING</string>
+    <string name="ab_messgae">This player is very HARSH in tackling. Do you want to continue?</string>
+    <string name="title_activity_zoo_description">Manchester UTD Directory</string>
+    <string name="info">Manchester United Football Club is a professional football club based in Old Trafford, Greater Manchester, England, that competes in the Premier League, the top flight of English football.\n
+        Founded as Newton Heath LYR Football Club in 1878, the club changed its name to Manchester United in 1902 and moved to Old Trafford in 1910.\n
+        Manchester United have won 20 league titles, the most of any English club, 11 FA Cups, four League Cups and a record 20 FA Community Shields.\n
+        The club has also won three European Cups, one UEFA Cup Winners\' Cup, one UEFA Super Cup, one Intercontinental Cup and one FIFA Club World Cup.\n
+        In 1998–99, the club became the first in the history of English football to achieve the treble of the Premier League, the FA Cup and the UEFA Champions League.\n
+        The 1958 Munich air disaster claimed the lives of eight players. In 1968, under the management of Matt Busby, Manchester United became the first English football club to win the European Cup.\n
+        Alex Ferguson won 38 trophies, including 13 Premier League titles, 5 FA Cups and 2 UEFA Champions Leagues, between 1986 and 2013 when he announced his retirement.\n
+        Louis van Gaal is the club\'s current manager after Ferguson\'s successor David Moyes was sacked after only 10 months in charge.</string>
+
+
+</resources>
